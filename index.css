@@ -74,12 +74,6 @@ p{
 
 .navbar{ background-color: #73bbe3 !important;  border-color: #4793cd;}
 
-.navbar-brand>img {
-  height: 100%;
-  padding: 15px;
-  width: auto;
-}
-
 .navbar .navbar-brand .navbar-brand:hover{  background-color: #73bbe3;  color: #333333;}
 
 .navbar .navbar-text{ color:#333333;}
